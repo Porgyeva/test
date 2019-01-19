@@ -1,1 +1,0 @@
-ndmakdm;amd;
